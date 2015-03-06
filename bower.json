@@ -1,0 +1,26 @@
+{
+  "name": "angular-input-autosize",
+  "version": "1.0.0",
+  "homepage": "https://github.com/zhipeng-jia/angular-input-autosize",
+  "authors": [
+    "Zhipeng Jia <zhipeng.jia@outlook.com>"
+  ],
+  "description": "Auto-resizing input field for AngularJS",
+  "main": "main.js",
+  "keywords": [
+    "input",
+    "angular",
+    "autosize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}
